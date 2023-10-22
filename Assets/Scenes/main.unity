@@ -376,6 +376,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9378aa3f6eac646479e54cd5932ffd3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
+=======
+  m_Rigidbody: {fileID: 0}
+>>>>>>> Stashed changes
 --- !u!1 &188020404
 GameObject:
   m_ObjectHideFlags: 0
@@ -503,6 +507,12 @@ MonoBehaviour:
   Ball: {fileID: 177912862}
   ScoreText: {fileID: 188020406}
   GameOverText: {fileID: 474497238}
+<<<<<<< Updated upstream
+=======
+  m_Started: 0
+  m_Points: 0
+  m_GameOver: 0
+>>>>>>> Stashed changes
 --- !u!1 &455529321
 GameObject:
   m_ObjectHideFlags: 0

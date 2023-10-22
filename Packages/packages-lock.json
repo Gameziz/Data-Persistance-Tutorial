@@ -1,5 +1,14 @@
 {
   "dependencies": {
+<<<<<<< Updated upstream
+=======
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
+>>>>>>> Stashed changes
     "com.unity.collab-proxy": {
       "version": "1.3.9",
       "depth": 0,
@@ -95,7 +104,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.textmeshpro": {
+<<<<<<< Updated upstream
       "version": "3.0.4",
+=======
+      "version": "3.0.1",
+>>>>>>> Stashed changes
       "depth": 0,
       "source": "registry",
       "dependencies": {

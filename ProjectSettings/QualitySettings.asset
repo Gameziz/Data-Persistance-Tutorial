@@ -93,7 +93,11 @@ QualitySettings:
     skinWeights: 2
     textureQuality: 0
     anisotropicTextures: 1
+<<<<<<< Updated upstream
     antiAliasing: 0
+=======
+    antiAliasing: 4
+>>>>>>> Stashed changes
     softParticles: 0
     softVegetation: 1
     realtimeReflectionProbes: 1
