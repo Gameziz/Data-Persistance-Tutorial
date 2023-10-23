@@ -13,15 +13,9 @@ InputManager:
     positiveButton: right
     altNegativeButton: a
     altPositiveButton: d
-<<<<<<< Updated upstream
-    gravity: 1000
-    dead: 0.001
-    sensitivity: 1000
-=======
     gravity: 3
     dead: 0.001
     sensitivity: 3
->>>>>>> Stashed changes
     snap: 1
     invert: 0
     type: 0
